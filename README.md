@@ -1,4 +1,4 @@
-# Sean P. Wojcik — Publications
+# Sean P. Wojcik, Ph.D. — Publications
 
 This repository contains a collection of my academic publications. My research spans political psychology, moral psychology, well-being, judgment and decision-making, and computational social science.
 
